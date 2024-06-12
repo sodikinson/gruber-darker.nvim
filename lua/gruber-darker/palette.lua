@@ -21,11 +21,11 @@ M = {
 	green = Color.new(0x9ccfd8),
 	yellow = Color.new(0xffdd33),
 	brown = Color.new(0xcc8c3c),
-	quartz = Color.new(0x95a99f),
+	quartz = Color.new(0xbac2de),
 	["niagara-2"] = Color.new(0xebbcba),
 	["niagara-1"] = Color.new(0x3e8fb0),
 	niagara = Color.new(0x96a6c8),
-	wisteria = Color.new(0x9e95c7),
+	wisteria = Color.new(0xcba6f7),
 }
 
 return M
