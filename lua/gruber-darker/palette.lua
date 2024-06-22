@@ -23,8 +23,8 @@ M = {
 	brown = Color.new(0xcc8c3c),
 	quartz = Color.new(0xb4befe),
 	["niagara-2"] = Color.new(0x179299),
-	["niagara-1"] = Color.new(0xe0def4),
-	niagara = Color.new(0xf2e9e1),
+	["niagara-1"] = Color.new(0x04a5e5),
+	niagara = Color.new(0x209fb5),
 	wisteria = Color.new(0xeff1f5),
 }
 
